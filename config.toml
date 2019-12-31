@@ -1,7 +1,6 @@
 baseURL = "http://mciantyre.github.io/"
 languageCode = "en-us"
 title = "mciantyre"
-theme = "blank"
 
 # Enable syntax highlighting.
 pygmentsstyle = "solarized-dark"
@@ -12,21 +11,10 @@ pygmentscodefencesguesssyntax = true
 mode = "dark"
 subtitle = "Technical blog and ramblings"
 
-# Main menu which appears below site header.
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 4
-
-[[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/mciantyre"
+weight = 1
 
 [taxonomies]
 tag = "tags"

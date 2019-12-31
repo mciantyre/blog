@@ -2,6 +2,3 @@
 	path = public
 	url = git@github.com:mciantyre/mciantyre.github.io.git
 	branch = master
-[submodule "themes/blank"]
-	path = themes/blank
-	url = https://github.com/vimux/blank
