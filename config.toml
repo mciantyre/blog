@@ -1,7 +1,7 @@
 baseURL = "http://mciantyre.github.io/"
 languageCode = "en-us"
 title = "mciantyre"
-theme = "ezhil"
+theme = "blank"
 
 # Enable syntax highlighting.
 pygmentsstyle = "solarized-dark"
