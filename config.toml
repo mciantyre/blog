@@ -2,11 +2,6 @@ baseURL = "http://mciantyre.github.io/"
 languageCode = "en-us"
 title = "mciantyre"
 
-# Enable syntax highlighting.
-pygmentsstyle = "solarized-dark"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-
 [params]
 mode = "dark"
 subtitle = "Technical blog and ramblings"
